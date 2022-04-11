@@ -1,2 +1,2 @@
 # pypedrive
-Pipedrive API  
+Pipedrive API in Python!  
